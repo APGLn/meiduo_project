@@ -1,0 +1,15 @@
+WARNING 2019-03-14 03:23:57,682 base 152 Not Found: /
+WARNING 2019-03-14 03:23:57,701 basehttp 124 "GET / HTTP/1.1" 404 2075
+INFO 2019-03-14 03:24:03,201 basehttp 124 "GET /register/ HTTP/1.1" 200 4535
+INFO 2019-03-14 03:24:03,218 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-03-14 03:24:03,219 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-03-14 03:24:03,234 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-03-14 03:24:03,236 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-03-14 03:24:03,248 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-03-14 03:24:03,266 basehttp 124 "GET /static/js/register.js HTTP/1.1" 200 19365
+INFO 2019-03-14 03:24:03,280 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-03-14 03:24:03,397 basehttp 124 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2019-03-14 03:24:03,417 basehttp 124 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2019-03-14 03:24:03,422 basehttp 124 "GET /static/images/icons02.png HTTP/1.1" 304 0
+ERROR 2019-03-14 03:24:03,712 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-03-14 03:24:03,839 basehttp 124 "GET /image_codes/5e1b544f-49a5-4da3-ba24-cc751cf9ca64/ HTTP/1.1" 400 70921
